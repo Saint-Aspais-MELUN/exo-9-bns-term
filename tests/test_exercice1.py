@@ -1,16 +1,4 @@
 from exercices.exercice1 import *
 
-def test_taille():
-    ## Ici le code d'initialisation si nécessaire
-    a = {
-        'F':['B','G'],
-        'B':['A','D'],
-        'A':['',''],
-        'D':['C','E'],
-        'C':['',''],
-        'E':['',''],
-        'G':['','I'],
-        'I':['','H'],
-        'H':['','']
-    }
-    assert taille(a,'F') == 9
+def test_moyenne():
+    assert moyenne([(15, 2), (9, 1), (12, 3)]) == 12.5
