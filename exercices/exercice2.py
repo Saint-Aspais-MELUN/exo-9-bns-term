@@ -1,9 +1,9 @@
-def tri_iteratif(tab):
-    for k in range( ... , 0, -1):
-        imax = ...
-        for i in range(0 , ... ):
-            if tab[i] > ... :
-                imax = i
-        if tab[max] > ... :
-            ... , tab[imax] = tab[imax] , ...
-    return tab
+def pascal(n):
+    C = [[1]]
+    for k in range(1, ...):
+        Ck = [...]
+        for i in range(1, k):
+            Ck.append(C[...][i - 1] + C[...][...])
+        Ck.append(...)
+        C.append(Ck)
+    return C
