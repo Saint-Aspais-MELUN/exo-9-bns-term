@@ -3,7 +3,7 @@
 - Ce sujet comporte deux exercices. Voir le PDF ci-joint rectifié (Pour voir les rectifications, cliquer sur les mots en jaune)  
 Les fichiers donnés ont été rectifiés.  
 
-Pour le premier exercice, vous devez écrire une fonction `moyenne` ()
+Pour le premier exercice, vous devez écrire une fonction `moyenne`.
 
 Pour le deuxième, il s'agit de compléter le code fourni.
 
