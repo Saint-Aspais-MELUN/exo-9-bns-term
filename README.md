@@ -4,7 +4,8 @@
 
 Pour le premier exercice, vous devez écrire une fonction `moyenne`.
 Erreur dans le PDF : lire  
-Par exemple, l’expression <code>moyenne([(15, 2), (9, 1), (12, 3)])</code> devra renvoyer le résultat du calcul suivant :  $\frac{2\times 15+1\times 9+3\times 12}{2+1+3}=12,5$  
+Par exemple, l’expression <code>moyenne([(15, 2), (9, 1), (12, 3)])</code> devra renvoyer le résultat du calcul suivant :  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2\times&space;15&plus;1\times&space;9&plus;3\times&space;12}{2&plus;1&plus;3}=12,5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2\times&space;15&plus;1\times&space;9&plus;3\times&space;12}{2&plus;1&plus;3}=12,5" title="\frac{2\times 15+1\times 9+3\times 12}{2+1+3}=12,5" /></a>
 
 Pour le deuxième, il s'agit de compléter le code fourni.
 
